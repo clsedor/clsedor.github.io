@@ -7,7 +7,7 @@
             {
                 width:300px;
                 font-size:40px;
-		backround-color: lightgreen;
+		backround-color:lightgreen;
             }
             th,td
             {
@@ -16,6 +16,7 @@
                 padding-right:20px;
                 padding-top:30px;
                 padding-bottom:30px;
+		bakcround-td:green;
             }
             table
             {
