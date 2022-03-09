@@ -22,11 +22,12 @@
             }
              td
              {
-		background-color:blue;
+		background-color: lightblue;
 		border:1px darkblue;
 
             }
             table
             {
-                border-spacing:3px;
+                border-spacing:2px;
+		border-color: 
             }
