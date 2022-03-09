@@ -1,23 +1,23 @@
 	caption
-			{
-				text-decoration:underline;
-				font-size:28px;
-			}
+	       {
+		text-decoration:underline;
+		font-size:28px;
+		}
             th
             {
-                width:200px;
-                font-size:20px;
+                width:300px;
+                font-size:40px;
 		backround-color: lightgreen;
             }
             th,td
             {
                 border:1px solid black;
-                padding-left:10px;
-                padding-right:10px;
-                padding-top:10px;
-                padding-bottom:10px;
+                padding-left:20px;
+                padding-right:20px;
+                padding-top:30px;
+                padding-bottom:30px;
             }
             table
             {
-                border-spacing:0px;
+                border-spacing:3px;
             }
