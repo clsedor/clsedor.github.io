@@ -12,8 +12,8 @@ body
 }
 header
 {
-	background-color:  sandybrown;
-	border: 5px dashed brown;
+	background-color:  red;
+	border: 5px dashed blue;
 	margin: 10px 100px;
 }
 header h1
