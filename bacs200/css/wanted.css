@@ -1,9 +1,4 @@
-/*
-*
-{
-	border: 1px solid brown;
-}
-*/
+
 body
 {
 	text-align: center;
@@ -14,33 +9,25 @@ header
 {
 	background-color:  red;
 	border: 5px dashed blue;
-	margin: 10px 100px;
 }
 header h1
 {
-	font-size:  60pt;
-	margin-top:  10px;
-	margin-bottom: 0;
+	font-size:  80pt;
+	margin-top:  15px;
+	margin-bottom: 1;
 }
 header h2
 {
 	font-size:  20pt;
 	color: var(--old-western-brown);
-	font-variant: small-caps;
 }
 main h1
 {
 	font-size:  70pt;
 	font-family: 'Brush Script MT', cursive;
 	margin: 0;
-}
-h1+h2
-{
-	margin-top: -15px;
-}
 main h2
 {
-	text-decoration: underline;
 	font-weight: bold;
 	margin-bottom: 0;
 }
@@ -50,11 +37,6 @@ main ul
 	margin: 0 auto;
 	text-align:  left;
 	/*padding-left: 2px;*/
-}
-#wantedlist
-{
-	font-size: 25pt;
-	float:  right;
-}
+
 
 
