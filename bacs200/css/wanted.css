@@ -20,18 +20,17 @@ header h1
 }
 main h1
 {
-	font-size:  70pt;
+	font-size:  80pt;
 	font-family: 'Times New Roman';
 	margin: 0;
 main h2
 {
-	font-weight: bold;
 	margin-bottom: 0;
 }
 main ul
 {
 	display:  table;
-	margin: 0 auto;
+	margin: 1 auto;
 	text-align:  center;
 	/*padding-left: 2px;*/
 
