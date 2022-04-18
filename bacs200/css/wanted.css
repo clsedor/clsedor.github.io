@@ -21,10 +21,10 @@ main h1
 {
 	font-size:  80pt;
 	font-family: 'Times New Roman';
-	margin: 0;
+	margin: 1;
 main h2
 {
-	margin-bottom: 0;
+	margin-bottom: 1;
 }
 main ul
 {
