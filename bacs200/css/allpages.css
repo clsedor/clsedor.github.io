@@ -2,6 +2,10 @@ html {
   Background-color:tan;
   font-family:verdana;
 }
+header {
+    background-color: tan;
+    font-size: 30px;
+}
 h1 {
   font-size: 12px;
   font-family: montserrat;
@@ -11,5 +15,11 @@ h2 {
   font-size: 50px;
   font-family: motserrat;
   font-weight: normal;
+}
+ul {
+    font-size: 10px;
+}
+
+
   
     
