@@ -2,4 +2,14 @@ html {
   Background-color:tan;
   font-family:verdana;
 }
+h1 {
+  font-size: 80px;
+  font-family: montserrat;
+  font-weight: darker;
+}
+h2 {
+  font-size: 50px;
+  font-family: motserrat;
+  font-weight: lighter;
+  
     
