@@ -3,13 +3,13 @@ html {
   font-family:verdana;
 }
 h1 {
-  font-size: 80px;
+  font-size: 12px;
   font-family: montserrat;
-  font-weight: darker;
+  font-weight: bold;
 }
 h2 {
   font-size: 50px;
   font-family: motserrat;
-  font-weight: lighter;
+  font-weight: normal;
   
     
