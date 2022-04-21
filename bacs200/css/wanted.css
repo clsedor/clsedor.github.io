@@ -26,8 +26,8 @@ main h1
 main ul
 {
 	display: table;
-	margin: 1 auto;
-	text-align: left;
+	margin: auto;
+	text-align: center;
 }
 
 
